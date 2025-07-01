@@ -1,0 +1,6 @@
+npm create vue@latest
+
+npm install
+npm install chart.js vue-chartjs
+
+npm run dev
